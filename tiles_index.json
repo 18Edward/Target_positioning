@@ -1,0 +1,2984 @@
+[
+  {
+    "block_id": 0,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0000.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0000.npz",
+    "bbox": [
+      384462.53048,
+      3178566.5442700004,
+      384512.50986,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 1,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0001.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0001.npz",
+    "bbox": [
+      384507.5361,
+      3178566.5442700004,
+      384557.51548,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 2,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0002.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0002.npz",
+    "bbox": [
+      384552.54172000004,
+      3178566.5442700004,
+      384602.5211,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 3,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0003.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0003.npz",
+    "bbox": [
+      384597.54734,
+      3178566.5442700004,
+      384647.52671999997,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 4,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0004.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0004.npz",
+    "bbox": [
+      384642.55296,
+      3178566.5442700004,
+      384692.53234,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1002
+  },
+  {
+    "block_id": 5,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0005.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0005.npz",
+    "bbox": [
+      384687.55858,
+      3178566.5442700004,
+      384737.53796,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 6,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0006.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0006.npz",
+    "bbox": [
+      384732.5642,
+      3178566.5442700004,
+      384782.54358,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 7,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0007.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0007.npz",
+    "bbox": [
+      384777.56982000003,
+      3178566.5442700004,
+      384827.5492,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 8,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0008.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0008.npz",
+    "bbox": [
+      384822.57544000004,
+      3178566.5442700004,
+      384872.55482,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 432
+  },
+  {
+    "block_id": 9,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0009.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0009.npz",
+    "bbox": [
+      384867.58106,
+      3178566.5442700004,
+      384917.56044,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 59
+  },
+  {
+    "block_id": 10,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0010.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0010.npz",
+    "bbox": [
+      384912.58668,
+      3178566.5442700004,
+      384962.56606,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 11
+  },
+  {
+    "block_id": 11,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0011.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0011.npz",
+    "bbox": [
+      384957.5923,
+      3178566.5442700004,
+      385007.57168,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 12,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0012.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0012.npz",
+    "bbox": [
+      385002.59792000003,
+      3178566.5442700004,
+      385027.0177,
+      3178616.5236500003
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 13,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0013.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0013.npz",
+    "bbox": [
+      384462.53048,
+      3178521.5386500005,
+      384512.50986,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 14,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0014.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0014.npz",
+    "bbox": [
+      384507.5361,
+      3178521.5386500005,
+      384557.51548,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 15,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0015.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0015.npz",
+    "bbox": [
+      384552.54172000004,
+      3178521.5386500005,
+      384602.5211,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 16,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0016.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0016.npz",
+    "bbox": [
+      384597.54734,
+      3178521.5386500005,
+      384647.52671999997,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 17,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0017.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0017.npz",
+    "bbox": [
+      384642.55296,
+      3178521.5386500005,
+      384692.53234,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 18,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0018.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0018.npz",
+    "bbox": [
+      384687.55858,
+      3178521.5386500005,
+      384737.53796,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 19,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0019.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0019.npz",
+    "bbox": [
+      384732.5642,
+      3178521.5386500005,
+      384782.54358,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 20,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0020.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0020.npz",
+    "bbox": [
+      384777.56982000003,
+      3178521.5386500005,
+      384827.5492,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 21,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0021.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0021.npz",
+    "bbox": [
+      384822.57544000004,
+      3178521.5386500005,
+      384872.55482,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 22,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0022.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0022.npz",
+    "bbox": [
+      384867.58106,
+      3178521.5386500005,
+      384917.56044,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 23,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0023.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0023.npz",
+    "bbox": [
+      384912.58668,
+      3178521.5386500005,
+      384962.56606,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 24,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0024.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0024.npz",
+    "bbox": [
+      384957.5923,
+      3178521.5386500005,
+      385007.57168,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 25,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0025.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0025.npz",
+    "bbox": [
+      385002.59792000003,
+      3178521.5386500005,
+      385027.0177,
+      3178571.5180300004
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 26,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0026.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0026.npz",
+    "bbox": [
+      384462.53048,
+      3178476.5330300005,
+      384512.50986,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 27,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0027.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0027.npz",
+    "bbox": [
+      384507.5361,
+      3178476.5330300005,
+      384557.51548,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 28,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0028.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0028.npz",
+    "bbox": [
+      384552.54172000004,
+      3178476.5330300005,
+      384602.5211,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 29,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0029.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0029.npz",
+    "bbox": [
+      384597.54734,
+      3178476.5330300005,
+      384647.52671999997,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 30,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0030.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0030.npz",
+    "bbox": [
+      384642.55296,
+      3178476.5330300005,
+      384692.53234,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 31,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0031.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0031.npz",
+    "bbox": [
+      384687.55858,
+      3178476.5330300005,
+      384737.53796,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 32,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0032.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0032.npz",
+    "bbox": [
+      384732.5642,
+      3178476.5330300005,
+      384782.54358,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 33,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0033.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0033.npz",
+    "bbox": [
+      384777.56982000003,
+      3178476.5330300005,
+      384827.5492,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1002
+  },
+  {
+    "block_id": 34,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0034.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0034.npz",
+    "bbox": [
+      384822.57544000004,
+      3178476.5330300005,
+      384872.55482,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 35,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0035.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0035.npz",
+    "bbox": [
+      384867.58106,
+      3178476.5330300005,
+      384917.56044,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 36,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0036.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0036.npz",
+    "bbox": [
+      384912.58668,
+      3178476.5330300005,
+      384962.56606,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 37,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0037.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0037.npz",
+    "bbox": [
+      384957.5923,
+      3178476.5330300005,
+      385007.57168,
+      3178526.5124100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 38,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0038.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0038.npz",
+    "bbox": [
+      385002.59792000003,
+      3178476.5330300005,
+      385027.0177,
+      3178526.5124100004
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 39,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0039.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0039.npz",
+    "bbox": [
+      384462.53048,
+      3178431.5274100006,
+      384512.50986,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 40,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0040.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0040.npz",
+    "bbox": [
+      384507.5361,
+      3178431.5274100006,
+      384557.51548,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 41,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0041.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0041.npz",
+    "bbox": [
+      384552.54172000004,
+      3178431.5274100006,
+      384602.5211,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 42,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0042.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0042.npz",
+    "bbox": [
+      384597.54734,
+      3178431.5274100006,
+      384647.52671999997,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 43,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0043.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0043.npz",
+    "bbox": [
+      384642.55296,
+      3178431.5274100006,
+      384692.53234,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 44,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0044.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0044.npz",
+    "bbox": [
+      384687.55858,
+      3178431.5274100006,
+      384737.53796,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 45,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0045.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0045.npz",
+    "bbox": [
+      384732.5642,
+      3178431.5274100006,
+      384782.54358,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 46,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0046.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0046.npz",
+    "bbox": [
+      384777.56982000003,
+      3178431.5274100006,
+      384827.5492,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 47,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0047.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0047.npz",
+    "bbox": [
+      384822.57544000004,
+      3178431.5274100006,
+      384872.55482,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 48,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0048.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0048.npz",
+    "bbox": [
+      384867.58106,
+      3178431.5274100006,
+      384917.56044,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 49,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0049.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0049.npz",
+    "bbox": [
+      384912.58668,
+      3178431.5274100006,
+      384962.56606,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 50,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0050.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0050.npz",
+    "bbox": [
+      384957.5923,
+      3178431.5274100006,
+      385007.57168,
+      3178481.5067900005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 51,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0051.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0051.npz",
+    "bbox": [
+      385002.59792000003,
+      3178431.5274100006,
+      385027.0177,
+      3178481.5067900005
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 52,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0052.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0052.npz",
+    "bbox": [
+      384462.53048,
+      3178386.5217900006,
+      384512.50986,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 53,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0053.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0053.npz",
+    "bbox": [
+      384507.5361,
+      3178386.5217900006,
+      384557.51548,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 54,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0054.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0054.npz",
+    "bbox": [
+      384552.54172000004,
+      3178386.5217900006,
+      384602.5211,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 55,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0055.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0055.npz",
+    "bbox": [
+      384597.54734,
+      3178386.5217900006,
+      384647.52671999997,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 56,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0056.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0056.npz",
+    "bbox": [
+      384642.55296,
+      3178386.5217900006,
+      384692.53234,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 57,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0057.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0057.npz",
+    "bbox": [
+      384687.55858,
+      3178386.5217900006,
+      384737.53796,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 58,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0058.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0058.npz",
+    "bbox": [
+      384732.5642,
+      3178386.5217900006,
+      384782.54358,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 59,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0059.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0059.npz",
+    "bbox": [
+      384777.56982000003,
+      3178386.5217900006,
+      384827.5492,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 60,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0060.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0060.npz",
+    "bbox": [
+      384822.57544000004,
+      3178386.5217900006,
+      384872.55482,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 61,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0061.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0061.npz",
+    "bbox": [
+      384867.58106,
+      3178386.5217900006,
+      384917.56044,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 62,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0062.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0062.npz",
+    "bbox": [
+      384912.58668,
+      3178386.5217900006,
+      384962.56606,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 63,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0063.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0063.npz",
+    "bbox": [
+      384957.5923,
+      3178386.5217900006,
+      385007.57168,
+      3178436.5011700005
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 64,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0064.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0064.npz",
+    "bbox": [
+      385002.59792000003,
+      3178386.5217900006,
+      385027.0177,
+      3178436.5011700005
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 65,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0065.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0065.npz",
+    "bbox": [
+      384462.53048,
+      3178341.51617,
+      384512.50986,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 66,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0066.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0066.npz",
+    "bbox": [
+      384507.5361,
+      3178341.51617,
+      384557.51548,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 67,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0067.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0067.npz",
+    "bbox": [
+      384552.54172000004,
+      3178341.51617,
+      384602.5211,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 68,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0068.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0068.npz",
+    "bbox": [
+      384597.54734,
+      3178341.51617,
+      384647.52671999997,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 69,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0069.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0069.npz",
+    "bbox": [
+      384642.55296,
+      3178341.51617,
+      384692.53234,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 70,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0070.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0070.npz",
+    "bbox": [
+      384687.55858,
+      3178341.51617,
+      384737.53796,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 71,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0071.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0071.npz",
+    "bbox": [
+      384732.5642,
+      3178341.51617,
+      384782.54358,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 72,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0072.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0072.npz",
+    "bbox": [
+      384777.56982000003,
+      3178341.51617,
+      384827.5492,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 73,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0073.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0073.npz",
+    "bbox": [
+      384822.57544000004,
+      3178341.51617,
+      384872.55482,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 74,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0074.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0074.npz",
+    "bbox": [
+      384867.58106,
+      3178341.51617,
+      384917.56044,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 75,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0075.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0075.npz",
+    "bbox": [
+      384912.58668,
+      3178341.51617,
+      384962.56606,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 76,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0076.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0076.npz",
+    "bbox": [
+      384957.5923,
+      3178341.51617,
+      385007.57168,
+      3178391.49555
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 77,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0077.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0077.npz",
+    "bbox": [
+      385002.59792000003,
+      3178341.51617,
+      385027.0177,
+      3178391.49555
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 577
+  },
+  {
+    "block_id": 78,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0078.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0078.npz",
+    "bbox": [
+      384462.53048,
+      3178296.5105500002,
+      384512.50986,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 79,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0079.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0079.npz",
+    "bbox": [
+      384507.5361,
+      3178296.5105500002,
+      384557.51548,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 80,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0080.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0080.npz",
+    "bbox": [
+      384552.54172000004,
+      3178296.5105500002,
+      384602.5211,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 81,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0081.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0081.npz",
+    "bbox": [
+      384597.54734,
+      3178296.5105500002,
+      384647.52671999997,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 82,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0082.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0082.npz",
+    "bbox": [
+      384642.55296,
+      3178296.5105500002,
+      384692.53234,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 83,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0083.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0083.npz",
+    "bbox": [
+      384687.55858,
+      3178296.5105500002,
+      384737.53796,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 84,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0084.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0084.npz",
+    "bbox": [
+      384732.5642,
+      3178296.5105500002,
+      384782.54358,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 85,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0085.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0085.npz",
+    "bbox": [
+      384777.56982000003,
+      3178296.5105500002,
+      384827.5492,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 86,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0086.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0086.npz",
+    "bbox": [
+      384822.57544000004,
+      3178296.5105500002,
+      384872.55482,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 87,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0087.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0087.npz",
+    "bbox": [
+      384867.58106,
+      3178296.5105500002,
+      384917.56044,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 88,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0088.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0088.npz",
+    "bbox": [
+      384912.58668,
+      3178296.5105500002,
+      384962.56606,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 89,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0089.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0089.npz",
+    "bbox": [
+      384957.5923,
+      3178296.5105500002,
+      385007.57168,
+      3178346.48993
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 90,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0090.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0090.npz",
+    "bbox": [
+      385002.59792000003,
+      3178296.5105500002,
+      385027.0177,
+      3178346.48993
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 91,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0091.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0091.npz",
+    "bbox": [
+      384462.53048,
+      3178251.5049300003,
+      384512.50986,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 92,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0092.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0092.npz",
+    "bbox": [
+      384507.5361,
+      3178251.5049300003,
+      384557.51548,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 93,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0093.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0093.npz",
+    "bbox": [
+      384552.54172000004,
+      3178251.5049300003,
+      384602.5211,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 94,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0094.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0094.npz",
+    "bbox": [
+      384597.54734,
+      3178251.5049300003,
+      384647.52671999997,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 95,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0095.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0095.npz",
+    "bbox": [
+      384642.55296,
+      3178251.5049300003,
+      384692.53234,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 96,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0096.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0096.npz",
+    "bbox": [
+      384687.55858,
+      3178251.5049300003,
+      384737.53796,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 97,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0097.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0097.npz",
+    "bbox": [
+      384732.5642,
+      3178251.5049300003,
+      384782.54358,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 98,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0098.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0098.npz",
+    "bbox": [
+      384777.56982000003,
+      3178251.5049300003,
+      384827.5492,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 99,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0099.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0099.npz",
+    "bbox": [
+      384822.57544000004,
+      3178251.5049300003,
+      384872.55482,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 100,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0100.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0100.npz",
+    "bbox": [
+      384867.58106,
+      3178251.5049300003,
+      384917.56044,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 101,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0101.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0101.npz",
+    "bbox": [
+      384912.58668,
+      3178251.5049300003,
+      384962.56606,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 102,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0102.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0102.npz",
+    "bbox": [
+      384957.5923,
+      3178251.5049300003,
+      385007.57168,
+      3178301.48431
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 103,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0103.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0103.npz",
+    "bbox": [
+      385002.59792000003,
+      3178251.5049300003,
+      385027.0177,
+      3178301.48431
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 104,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0104.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0104.npz",
+    "bbox": [
+      384462.53048,
+      3178206.4993100003,
+      384512.50986,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 105,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0105.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0105.npz",
+    "bbox": [
+      384507.5361,
+      3178206.4993100003,
+      384557.51548,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 106,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0106.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0106.npz",
+    "bbox": [
+      384552.54172000004,
+      3178206.4993100003,
+      384602.5211,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 107,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0107.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0107.npz",
+    "bbox": [
+      384597.54734,
+      3178206.4993100003,
+      384647.52671999997,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 108,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0108.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0108.npz",
+    "bbox": [
+      384642.55296,
+      3178206.4993100003,
+      384692.53234,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 109,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0109.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0109.npz",
+    "bbox": [
+      384687.55858,
+      3178206.4993100003,
+      384737.53796,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 110,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0110.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0110.npz",
+    "bbox": [
+      384732.5642,
+      3178206.4993100003,
+      384782.54358,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 111,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0111.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0111.npz",
+    "bbox": [
+      384777.56982000003,
+      3178206.4993100003,
+      384827.5492,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 112,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0112.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0112.npz",
+    "bbox": [
+      384822.57544000004,
+      3178206.4993100003,
+      384872.55482,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 113,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0113.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0113.npz",
+    "bbox": [
+      384867.58106,
+      3178206.4993100003,
+      384917.56044,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 114,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0114.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0114.npz",
+    "bbox": [
+      384912.58668,
+      3178206.4993100003,
+      384962.56606,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 115,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0115.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0115.npz",
+    "bbox": [
+      384957.5923,
+      3178206.4993100003,
+      385007.57168,
+      3178256.4786900003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 116,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0116.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0116.npz",
+    "bbox": [
+      385002.59792000003,
+      3178206.4993100003,
+      385027.0177,
+      3178256.4786900003
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 117,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0117.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0117.npz",
+    "bbox": [
+      384462.53048,
+      3178161.4936900004,
+      384512.50986,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 118,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0118.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0118.npz",
+    "bbox": [
+      384507.5361,
+      3178161.4936900004,
+      384557.51548,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 119,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0119.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0119.npz",
+    "bbox": [
+      384552.54172000004,
+      3178161.4936900004,
+      384602.5211,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 120,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0120.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0120.npz",
+    "bbox": [
+      384597.54734,
+      3178161.4936900004,
+      384647.52671999997,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 121,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0121.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0121.npz",
+    "bbox": [
+      384642.55296,
+      3178161.4936900004,
+      384692.53234,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 122,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0122.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0122.npz",
+    "bbox": [
+      384687.55858,
+      3178161.4936900004,
+      384737.53796,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 123,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0123.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0123.npz",
+    "bbox": [
+      384732.5642,
+      3178161.4936900004,
+      384782.54358,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 124,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0124.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0124.npz",
+    "bbox": [
+      384777.56982000003,
+      3178161.4936900004,
+      384827.5492,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 125,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0125.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0125.npz",
+    "bbox": [
+      384822.57544000004,
+      3178161.4936900004,
+      384872.55482,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 126,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0126.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0126.npz",
+    "bbox": [
+      384867.58106,
+      3178161.4936900004,
+      384917.56044,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 127,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0127.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0127.npz",
+    "bbox": [
+      384912.58668,
+      3178161.4936900004,
+      384962.56606,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 128,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0128.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0128.npz",
+    "bbox": [
+      384957.5923,
+      3178161.4936900004,
+      385007.57168,
+      3178211.4730700003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 17
+  },
+  {
+    "block_id": 129,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0129.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0129.npz",
+    "bbox": [
+      385002.59792000003,
+      3178161.4936900004,
+      385027.0177,
+      3178211.4730700003
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 130,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0130.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0130.npz",
+    "bbox": [
+      384462.53048,
+      3178116.4880700004,
+      384512.50986,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 131,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0131.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0131.npz",
+    "bbox": [
+      384507.5361,
+      3178116.4880700004,
+      384557.51548,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 132,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0132.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0132.npz",
+    "bbox": [
+      384552.54172000004,
+      3178116.4880700004,
+      384602.5211,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 133,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0133.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0133.npz",
+    "bbox": [
+      384597.54734,
+      3178116.4880700004,
+      384647.52671999997,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 134,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0134.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0134.npz",
+    "bbox": [
+      384642.55296,
+      3178116.4880700004,
+      384692.53234,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 135,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0135.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0135.npz",
+    "bbox": [
+      384687.55858,
+      3178116.4880700004,
+      384737.53796,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 136,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0136.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0136.npz",
+    "bbox": [
+      384732.5642,
+      3178116.4880700004,
+      384782.54358,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 137,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0137.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0137.npz",
+    "bbox": [
+      384777.56982000003,
+      3178116.4880700004,
+      384827.5492,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 138,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0138.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0138.npz",
+    "bbox": [
+      384822.57544000004,
+      3178116.4880700004,
+      384872.55482,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 139,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0139.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0139.npz",
+    "bbox": [
+      384867.58106,
+      3178116.4880700004,
+      384917.56044,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 140,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0140.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0140.npz",
+    "bbox": [
+      384912.58668,
+      3178116.4880700004,
+      384962.56606,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 141,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0141.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0141.npz",
+    "bbox": [
+      384957.5923,
+      3178116.4880700004,
+      385007.57168,
+      3178166.4674500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 142,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0142.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0142.npz",
+    "bbox": [
+      385002.59792000003,
+      3178116.4880700004,
+      385027.0177,
+      3178166.4674500003
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 143,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0143.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0143.npz",
+    "bbox": [
+      384462.53048,
+      3178071.4824500005,
+      384512.50986,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 179
+  },
+  {
+    "block_id": 144,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0144.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0144.npz",
+    "bbox": [
+      384507.5361,
+      3178071.4824500005,
+      384557.51548,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 145,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0145.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0145.npz",
+    "bbox": [
+      384552.54172000004,
+      3178071.4824500005,
+      384602.5211,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 146,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0146.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0146.npz",
+    "bbox": [
+      384597.54734,
+      3178071.4824500005,
+      384647.52671999997,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 147,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0147.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0147.npz",
+    "bbox": [
+      384642.55296,
+      3178071.4824500005,
+      384692.53234,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 148,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0148.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0148.npz",
+    "bbox": [
+      384687.55858,
+      3178071.4824500005,
+      384737.53796,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 149,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0149.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0149.npz",
+    "bbox": [
+      384732.5642,
+      3178071.4824500005,
+      384782.54358,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 150,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0150.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0150.npz",
+    "bbox": [
+      384777.56982000003,
+      3178071.4824500005,
+      384827.5492,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 151,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0151.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0151.npz",
+    "bbox": [
+      384822.57544000004,
+      3178071.4824500005,
+      384872.55482,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 152,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0152.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0152.npz",
+    "bbox": [
+      384867.58106,
+      3178071.4824500005,
+      384917.56044,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 153,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0153.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0153.npz",
+    "bbox": [
+      384912.58668,
+      3178071.4824500005,
+      384962.56606,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 154,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0154.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0154.npz",
+    "bbox": [
+      384957.5923,
+      3178071.4824500005,
+      385007.57168,
+      3178121.4618300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 155,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0155.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0155.npz",
+    "bbox": [
+      385002.59792000003,
+      3178071.4824500005,
+      385027.0177,
+      3178121.4618300004
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 156,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0156.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0156.npz",
+    "bbox": [
+      384462.53048,
+      3178026.4768300005,
+      384512.50986,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 157,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0157.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0157.npz",
+    "bbox": [
+      384507.5361,
+      3178026.4768300005,
+      384557.51548,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 158,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0158.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0158.npz",
+    "bbox": [
+      384552.54172000004,
+      3178026.4768300005,
+      384602.5211,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 483
+  },
+  {
+    "block_id": 159,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0159.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0159.npz",
+    "bbox": [
+      384597.54734,
+      3178026.4768300005,
+      384647.52671999997,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 718
+  },
+  {
+    "block_id": 160,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0160.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0160.npz",
+    "bbox": [
+      384642.55296,
+      3178026.4768300005,
+      384692.53234,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 161,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0161.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0161.npz",
+    "bbox": [
+      384687.55858,
+      3178026.4768300005,
+      384737.53796,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 162,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0162.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0162.npz",
+    "bbox": [
+      384732.5642,
+      3178026.4768300005,
+      384782.54358,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 163,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0163.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0163.npz",
+    "bbox": [
+      384777.56982000003,
+      3178026.4768300005,
+      384827.5492,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 164,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0164.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0164.npz",
+    "bbox": [
+      384822.57544000004,
+      3178026.4768300005,
+      384872.55482,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 165,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0165.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0165.npz",
+    "bbox": [
+      384867.58106,
+      3178026.4768300005,
+      384917.56044,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 166,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0166.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0166.npz",
+    "bbox": [
+      384912.58668,
+      3178026.4768300005,
+      384962.56606,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 167,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0167.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0167.npz",
+    "bbox": [
+      384957.5923,
+      3178026.4768300005,
+      385007.57168,
+      3178076.4562100004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 168,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0168.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0168.npz",
+    "bbox": [
+      385002.59792000003,
+      3178026.4768300005,
+      385027.0177,
+      3178076.4562100004
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 169,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0169.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0169.npz",
+    "bbox": [
+      384462.53048,
+      3178003.8185900003,
+      384512.50986,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 170,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0170.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0170.npz",
+    "bbox": [
+      384507.5361,
+      3178003.8185900003,
+      384557.51548,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 171,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0171.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0171.npz",
+    "bbox": [
+      384552.54172000004,
+      3178003.8185900003,
+      384602.5211,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 172,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0172.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0172.npz",
+    "bbox": [
+      384597.54734,
+      3178003.8185900003,
+      384647.52671999997,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 173,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0173.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0173.npz",
+    "bbox": [
+      384642.55296,
+      3178003.8185900003,
+      384692.53234,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 174,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0174.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0174.npz",
+    "bbox": [
+      384687.55858,
+      3178003.8185900003,
+      384737.53796,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 175,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0175.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0175.npz",
+    "bbox": [
+      384732.5642,
+      3178003.8185900003,
+      384782.54358,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 176,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0176.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0176.npz",
+    "bbox": [
+      384777.56982000003,
+      3178003.8185900003,
+      384827.5492,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 177,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0177.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0177.npz",
+    "bbox": [
+      384822.57544000004,
+      3178003.8185900003,
+      384872.55482,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 178,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0178.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0178.npz",
+    "bbox": [
+      384867.58106,
+      3178003.8185900003,
+      384917.56044,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 179,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0179.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0179.npz",
+    "bbox": [
+      384912.58668,
+      3178003.8185900003,
+      384962.56606,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 180,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0180.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0180.npz",
+    "bbox": [
+      384957.5923,
+      3178003.8185900003,
+      385007.57168,
+      3178031.4505900005
+    ],
+    "width_px": 1447,
+    "height_px": 800,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 181,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0181.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0181.npz",
+    "bbox": [
+      385002.59792000003,
+      3178003.8185900003,
+      385027.0177,
+      3178031.4505900005
+    ],
+    "width_px": 707,
+    "height_px": 800,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 0,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0000.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0000.npz",
+    "bbox": [
+      384462.53048,
+      3178566.5442700004,
+      384512.50986,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 1,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0001.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0001.npz",
+    "bbox": [
+      384507.5361,
+      3178566.5442700004,
+      384557.51548,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 2,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0002.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0002.npz",
+    "bbox": [
+      384552.54172000004,
+      3178566.5442700004,
+      384602.5211,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 3,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0003.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0003.npz",
+    "bbox": [
+      384597.54734,
+      3178566.5442700004,
+      384647.52671999997,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 4,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0004.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0004.npz",
+    "bbox": [
+      384642.55296,
+      3178566.5442700004,
+      384692.53234,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1002
+  },
+  {
+    "block_id": 5,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0005.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0005.npz",
+    "bbox": [
+      384687.55858,
+      3178566.5442700004,
+      384737.53796,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 6,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0006.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0006.npz",
+    "bbox": [
+      384732.5642,
+      3178566.5442700004,
+      384782.54358,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 7,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0007.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0007.npz",
+    "bbox": [
+      384777.56982000003,
+      3178566.5442700004,
+      384827.5492,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 8,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0008.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0008.npz",
+    "bbox": [
+      384822.57544000004,
+      3178566.5442700004,
+      384872.55482,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 432
+  },
+  {
+    "block_id": 9,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0009.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0009.npz",
+    "bbox": [
+      384867.58106,
+      3178566.5442700004,
+      384917.56044,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 59
+  },
+  {
+    "block_id": 10,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0010.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0010.npz",
+    "bbox": [
+      384912.58668,
+      3178566.5442700004,
+      384962.56606,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 11
+  },
+  {
+    "block_id": 11,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0011.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0011.npz",
+    "bbox": [
+      384957.5923,
+      3178566.5442700004,
+      385007.57168,
+      3178616.5236500003
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 12,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0012.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0012.npz",
+    "bbox": [
+      385002.59792000003,
+      3178566.5442700004,
+      385027.0177,
+      3178616.5236500003
+    ],
+    "width_px": 707,
+    "height_px": 1447,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 13,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0013.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0013.npz",
+    "bbox": [
+      384462.53048,
+      3178521.5386500005,
+      384512.50986,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 14,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0014.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0014.npz",
+    "bbox": [
+      384507.5361,
+      3178521.5386500005,
+      384557.51548,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 15,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0015.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0015.npz",
+    "bbox": [
+      384552.54172000004,
+      3178521.5386500005,
+      384602.5211,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 16,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0016.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0016.npz",
+    "bbox": [
+      384597.54734,
+      3178521.5386500005,
+      384647.52671999997,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 17,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0017.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0017.npz",
+    "bbox": [
+      384642.55296,
+      3178521.5386500005,
+      384692.53234,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 18,
+    "image_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0018.tif",
+    "features_path": "C:\\Users\\ch011\\Desktop\\无人机目标定位算法\\50\\tile_0018.npz",
+    "bbox": [
+      384687.55858,
+      3178521.5386500005,
+      384737.53796,
+      3178571.5180300004
+    ],
+    "width_px": 1447,
+    "height_px": 1447,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 0,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0000.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0000.npz",
+    "bbox": [
+      384462.53048,
+      3178556.52767,
+      384522.52646,
+      3178616.5236500003
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 1,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0001.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0001.npz",
+    "bbox": [
+      384516.55104,
+      3178556.52767,
+      384576.54702,
+      3178616.5236500003
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 2,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0002.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0002.npz",
+    "bbox": [
+      384570.5716,
+      3178556.52767,
+      384630.56758000003,
+      3178616.5236500003
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 3,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0003.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0003.npz",
+    "bbox": [
+      384624.59216,
+      3178556.52767,
+      384684.58814,
+      3178616.5236500003
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 1001
+  },
+  {
+    "block_id": 4,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0004.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0004.npz",
+    "bbox": [
+      384678.61272000003,
+      3178556.52767,
+      384738.60870000004,
+      3178616.5236500003
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 5,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0005.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0005.npz",
+    "bbox": [
+      384732.63328,
+      3178556.52767,
+      384792.62926,
+      3178616.5236500003
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 6,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0006.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0006.npz",
+    "bbox": [
+      384786.65384000004,
+      3178556.52767,
+      384846.64982000005,
+      3178616.5236500003
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 1002
+  },
+  {
+    "block_id": 7,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0007.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0007.npz",
+    "bbox": [
+      384840.6744,
+      3178556.52767,
+      384900.67038,
+      3178616.5236500003
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 8,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0008.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0008.npz",
+    "bbox": [
+      384894.69496,
+      3178556.52767,
+      384954.69094,
+      3178616.5236500003
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 1000
+  },
+  {
+    "block_id": 9,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0009.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0009.npz",
+    "bbox": [
+      384948.71552,
+      3178556.52767,
+      385008.71150000003,
+      3178616.5236500003
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 395
+  },
+  {
+    "block_id": 10,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0010.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0010.npz",
+    "bbox": [
+      385002.73608,
+      3178556.52767,
+      385027.0177,
+      3178616.5236500003
+    ],
+    "width_px": 703,
+    "height_px": 1737,
+    "sift_keypoints": 0
+  },
+  {
+    "block_id": 11,
+    "image_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0011.tif",
+    "features_path": "C:\\Users\\wyk31\\Desktop\\无人机目标定位算法\\50\\tile_0011.npz",
+    "bbox": [
+      384462.53048,
+      3178502.50711,
+      384522.52646,
+      3178562.5030900002
+    ],
+    "width_px": 1737,
+    "height_px": 1737,
+    "sift_keypoints": 1001
+  }
+]

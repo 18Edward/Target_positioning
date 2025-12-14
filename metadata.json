@@ -1,0 +1,20 @@
+{
+    "image_size": {
+        "width_px": 16343,
+        "height_px": 17739
+    },
+    "pixel_resolution_m": 0.03454,
+    "geotransform": [
+        384462.53048,
+        0.03454,
+        0.0,
+        3178616.5236500003,
+        0.0,
+        -0.03454
+    ],
+    "origin": {
+        "x0_easting": 384462.53048,
+        "y0_northing": 3178616.52365
+    },
+    "epsg_code": "EPSG:4548"
+}
