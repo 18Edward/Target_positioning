@@ -5,10 +5,9 @@ import cv2
 import numpy as np
 from osgeo import gdal, osr
 import json
-
-
 gdal.SetConfigOption('GTIFF_SRS_SOURCE', 'EPSG')  # 强制使用 EPSG 官方定义
 gdal.UseExceptions()
+
 # 主函数入口
 def main():
     # 配置路径
